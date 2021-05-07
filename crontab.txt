@@ -1,0 +1,1 @@
+*/5 * * * * /home/jk/interface/interface/yd5g_subscribe/start.sh /home/jk >/home/jk/log/yd5g_subscribe_start.sh.log 2>&1
